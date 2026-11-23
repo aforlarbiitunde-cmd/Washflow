@@ -1,0 +1,3 @@
+export default function PrivacyPage() {
+  return <main className="container" style={{ maxWidth: 760 }}><div className="nav"><a className="brand" href="/">WashFlow</a></div><section className="panel"><h1>Privacy Policy</h1><p className="muted">Draft placeholder — not a published privacy notice.</p><p>WashFlow will process business account details and car wash customer and vehicle information. Before public launch, this page must explain the data controller, purposes, legal bases, processors, retention periods, international transfers, user rights, deletion/export procedures and contact details under applicable law.</p></section></main>;
+}

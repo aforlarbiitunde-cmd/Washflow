@@ -1,0 +1,3 @@
+export default function TermsPage() {
+  return <main className="container" style={{ maxWidth: 760 }}><div className="nav"><a className="brand" href="/">WashFlow</a></div><section className="panel"><h1>Terms of Service</h1><p className="muted">Draft placeholder — not legal advice.</p><p>WashFlow is under development. These terms must be reviewed and replaced with a complete agreement covering account eligibility, subscriptions, acceptable use, customer data, service availability, limitations, termination, governing law and dispute resolution before public registration is enabled.</p></section></main>;
+}
